@@ -3,7 +3,7 @@
 
 # メンバー
 まお教授
-えるます
+えるます３
 ワカバ
 
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
